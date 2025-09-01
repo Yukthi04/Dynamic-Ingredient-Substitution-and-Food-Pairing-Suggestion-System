@@ -1,8 +1,8 @@
-#Overview
+✨ Overview
 
 An AI-based system that suggests alternative ingredients, food pairings, and recipe ideas to help users cook smarter with what they have. Special focus is given to traditional Indian cuisine, health-conscious diets, and personalized recommendations.
 
-#✨ Key Highlights
+✨ Key Highlights
 
 🔄 Ingredient Alternatives – Swap ingredients based on flavor, nutrition & texture.
 
@@ -17,6 +17,7 @@ An AI-based system that suggests alternative ingredients, food pairings, and rec
 🤖 ML-Powered – Uses similarity models & classification techniques.
 
 
+
 🛠️ Tech Stack
 
 Frontend: React, TailwindCSS
@@ -28,7 +29,7 @@ ML Tools: Scikit-learn, Pandas, NumPy
 APIs: OpenAI for intelligent pairing
 
 
-Installation & Setup
+📌Installation & Setup
 
 🔹 Prerequisites
 
@@ -39,14 +40,14 @@ Node.js (latest LTS version)
 Python 3.8 or later
 
 
- Backend Setup
+🔹 Backend Setup
  
-# Clone the repository
-
+ Clone the repository
+ 
 git clone https://github.com/your-username/your-repo.git
 cd your-repo/backend
 
-# Create a virtual environment and activate it
+ Create a virtual environment and activate it
 
 python -m venv venv
 
@@ -54,33 +55,33 @@ source venv/bin/activate   # For macOS/Linux
 
 venv\Scripts\activate      # For Windows
 
-# Install dependencies
+ Install dependencies
 
 pip install -r requirements.txt
 
-# Set up environment variables (API keys, database URL, etc.)
+ Set up environment variables (API keys, database URL, etc.)
 
-# Start the backend server
+ Start the backend server
 
 python app.py
 
 
-Frontend Setup
+🔹Frontend Setup
 
-# Navigate to the frontend directory
+ Navigate to the frontend directory
 
 cd ../frontend
 
-# Install dependencies
+ Install dependencies
 
 npm install
 
-# Start the frontend server
+ Start the frontend server
 
 npm start
 
 
-How It Works
+✨ How It Works
 
 1.Open the frontend in a browser: http://localhost:3000
 
@@ -91,7 +92,7 @@ How It Works
 4.Explore curated recipe ideas.
 
 
-Future Scope:
+✨ Future Scope:
 
 1.Real-Time Ingredient Detection (Image Recognition) :Integrate computer vision models (e.g., CNNs, YOLO, or pre-trained models like MobileNet) to detect ingredients directly from images.
 
@@ -102,6 +103,7 @@ Future Scope:
 
 
 The Dynamic Ingredient Substitution and Food Pairing System demonstrates how AI can simplify cooking by suggesting smart ingredient swaps, food pairings, and recipes. It helps users optimize available ingredients while supporting health and dietary needs. With future enhancements like image recognition, voice assistants, and IoT integration, the system can evolve into a powerful smart cooking companion.
+
 
 
 
