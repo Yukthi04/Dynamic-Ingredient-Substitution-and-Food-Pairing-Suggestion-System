@@ -41,47 +41,46 @@ Python 3.8 or later
 
 
 🔹 Backend Setup
- 
+
  Clone the repository
  
 git clone https://github.com/your-username/your-repo.git
 cd your-repo/backend
 
  Create a virtual environment and activate it
-
+ 
 python -m venv venv
-
 source venv/bin/activate   # For macOS/Linux
-
 venv\Scripts\activate      # For Windows
 
  Install dependencies
-
-pip install -r requirements.txt
+ 
+ pip install -r requirements.txt
 
  Set up environment variables (API keys, database URL, etc.)
 
  Start the backend server
+ 
+ python app.py
 
-python app.py
 
 
 🔹Frontend Setup
 
- Navigate to the frontend directory
+Navigate to the frontend directory
 
 cd ../frontend
 
- Install dependencies
+Install dependencies
 
 npm install
 
- Start the frontend server
+Start the frontend server
 
 npm start
 
 
-✨ How It Works
+🚀 How It Works
 
 1.Open the frontend in a browser: http://localhost:3000
 
@@ -103,6 +102,7 @@ npm start
 
 
 The Dynamic Ingredient Substitution and Food Pairing System demonstrates how AI can simplify cooking by suggesting smart ingredient swaps, food pairings, and recipes. It helps users optimize available ingredients while supporting health and dietary needs. With future enhancements like image recognition, voice assistants, and IoT integration, the system can evolve into a powerful smart cooking companion.
+
 
 
 
