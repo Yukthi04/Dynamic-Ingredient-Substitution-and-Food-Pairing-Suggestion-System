@@ -1,4 +1,5 @@
 Overview
+
 An AI-based system that suggests alternative ingredients, food pairings, and recipe ideas to help users cook smarter with what they have. Special focus is given to traditional Indian cuisine, health-conscious diets, and personalized recommendations.
 
 ✨ Key Highlights
@@ -54,3 +55,4 @@ Future Scope:
 3.Nutritional Optimization:Extend recommendations to include calorie and nutrition tracking.
 
 The Dynamic Ingredient Substitution and Food Pairing System demonstrates how AI can simplify cooking by suggesting smart ingredient swaps, food pairings, and recipes. It helps users optimize available ingredients while supporting health and dietary needs. With future enhancements like image recognition, voice assistants, and IoT integration, the system can evolve into a powerful smart cooking companion.
+
