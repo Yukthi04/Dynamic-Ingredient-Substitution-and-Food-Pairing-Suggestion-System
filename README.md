@@ -70,8 +70,11 @@ npm start
 ## 🚀 How It Works
 
 1️⃣ Open the app in your browser at **[http://localhost:3000](http://localhost:3000)**
+
 2️⃣ Enter available ingredients & dietary preferences
+
 3️⃣ Get **AI-driven substitutions & food pairings**
+
 4️⃣ Explore curated **recipe suggestions**
 
 ---
@@ -89,6 +92,7 @@ npm start
 The **Dynamic Ingredient Substitution and Food Pairing System** showcases how AI can simplify cooking by suggesting smart ingredient swaps, complementary food pairings, and personalized recipes. It helps users **make the best use of available ingredients while meeting health needs**. With future upgrades like **image recognition, voice integration, and IoT connectivity**, it can evolve into a powerful smart cooking companion.
 
 ---
+
 
 
 
